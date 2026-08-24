@@ -1,6 +1,7 @@
 # gamma_smc_cu
 
 ![tests](https://img.shields.io/badge/tests-97%20passed-brightgreen)
+[![Documentation Status](https://readthedocs.org/projects/gamma-smc-cu/badge/?version=latest)](https://gamma-smc-cu.readthedocs.io/en/latest/?badge=latest)
 ![CUDA](https://img.shields.io/badge/CUDA-A100%20|%20H100%20|%20B200-76b900)
 ![license](https://img.shields.io/badge/license-MIT-blue)
 
