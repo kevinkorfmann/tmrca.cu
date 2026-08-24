@@ -242,14 +242,13 @@ calibration.
 
 ## Citation
 
-A manuscript is in preparation:
+Please cite the preprint:
 
-> Korfmann K & Mathieson S. *Pairwise coalescence-time inference
-> localises a shared West Eurasian sweep haplotype at chr11q13.2*
-> (*GRK2*). In preparation, 2026.
+> Korfmann K & Mathieson S. *Fast pairwise coalescence enables
+> gene-resolution scans for recent selection in diverse human populations.*
+> bioRxiv (2026). https://doi.org/10.64898/2026.05.21.726777
 
-If you use `gamma_smc_cu` before the preprint appears, please cite this
-repository directly and the reference Gamma-SMC paper:
+Please also cite the reference Gamma-SMC paper:
 
 > Schweiger R & Durbin R. Ultrafast genome-wide inference of pairwise
 > coalescence times. *Genome Research* 33(7):1023-1031 (2023).
