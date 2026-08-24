@@ -2,6 +2,7 @@
 
 ![tests](https://img.shields.io/badge/tests-97%20passed-brightgreen)
 [![Documentation Status](https://readthedocs.org/projects/gamma-smc-cu/badge/?version=latest)](https://gamma-smc-cu.readthedocs.io/en/latest/?badge=latest)
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-preprint-B31B1B)](https://doi.org/10.64898/2026.05.21.726777)
 ![CUDA](https://img.shields.io/badge/CUDA-A100%20|%20H100%20|%20B200-76b900)
 ![license](https://img.shields.io/badge/license-MIT-blue)
 
